@@ -36,6 +36,7 @@ I used Python 3.8.8 for this project and Juptyer Notebook as an IDE. Then main p
 ## Author
 
 Gorata Malose
+<br>
 [Linkedin: Gorata Malose](https://www.linkedin.com/in/gorata-bridget-malose/)
 
 
