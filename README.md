@@ -1,7 +1,6 @@
 # Data-Wrangling---WeRateDogs-Twitter-Archive
 
-Gathering, cleaning, and analysing Twitter Archive Data.
-
+**Gathering, cleaning, and analysing Twitter Archive Data.**
 <br>
 ![Screenshot](images/screenshot.PNG)
 
