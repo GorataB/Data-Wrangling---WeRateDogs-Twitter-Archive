@@ -41,4 +41,4 @@ Gorata Malose
 
 ## License
 
-This project is licensed under the [MIT] License and it was submitted by Gorata Malose as part of Udacity's Data Analyst Nanodegree programme.
+This project is licensed under the [MIT](MIT-LICENSE.txt) License and it was submitted by Gorata Malose as part of Udacity's Data Analyst Nanodegree programme.
